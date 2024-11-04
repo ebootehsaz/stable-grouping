@@ -1,0 +1,5 @@
+preferences.csv
+roster.csv
+*.csv
+
+venv
